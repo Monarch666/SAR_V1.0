@@ -1,0 +1,8 @@
+Class ID,Class Name,Count
+0,victim_person,135805
+1,rescue_personnel,25919
+2,thermal_human,47135
+3,fire,128354
+4,smoke,38801
+5,rescue_vehicle,2854
+6,structural_damage,0

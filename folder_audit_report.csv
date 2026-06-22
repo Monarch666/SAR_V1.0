@@ -1,0 +1,31 @@
+folder,format,classes,total_images,labeled_images,class_distribution,resolution_range,train_val_split,issues
+dataset1,YOLO,"电子设备, 事故, 打架, 武器",23454,23428,"{'电子设备': 21635, '事故': 18468, '武器': 23645, '打架': 14542}",416x416 - 416x416,No,None
+dataset2,YOLO,Person,550,550,{'Person': 929},640x640 - 640x640,No,None
+dataset3,YOLO (No class list found),None,1769,1769,{'class_0': 1769},640x480 - 640x480,Yes,None
+dataset4,YOLO,Fire,8452,8306,{'Fire': 8351},640x360 - 640x360,No,None
+dataset5,YOLO (No class list found),None,1275,0,{},160x120 - 160x120,No,None
+dataset6,YOLO,"hat, person",7581,7568,"{'hat': 8437, 'person': 111514}",308x273 - 947x1421,No,None
+dataset8,YOLO (No class list found),None,91,91,{'class_0': 93},5184x3888 - 5184x3888,No,None
+dataset9,YOLO,"fire, smoke",14485,7897,"{'fire': 13915, 'smoke': 5333}",512x512 - 512x512,No,None
+dataset10,VOC,fire,13100,4500,{'fire': 13149},512x512 - 512x512,No,None
+dataset11,COCO,Human,6340,10646,{'Human': 16579},1280x960 - 1280x960,No,None
+dataset13,YOLO (No class list found),None,956,0,{},640x640 - 640x640,No,None
+dataset14,YOLO,"fire, smoke",387,176,"{'fire': 350, 'smoke': 155}",183x171 - 5408x3605,Yes,None
+dataset15,COCO,Person,26014,19354,{'Person': 56436},640x640 - 640x640,No,None
+dataset17,YOLO,fire,32603,32335,"{'fire': 57852, 'class_1': 14879}",640x640 - 640x640,No,None
+dataset18,YOLO,"火, 烟",10000,10000,"{'烟': 3327, '火': 18352}",640x640 - 640x640,No,None
+dataset19,YOLO,fire,122,77,{'fire': 101},500x335 - 1280x900,No,None
+dataset20,YOLO,fire,3048,2943,{'fire': 4528},640x363 - 5568x3712,No,None
+dataset21,YOLO,"helmet, person, head",5000,5000,"{'helmet': 18966, 'head': 5785, 'person': 751}",416x415 - 416x416,No,None
+dataset22,YOLO,"large fire, small fire, medium fire, heavy smoke, low smoke",10555,9975,"{'low smoke': 10110, 'medium fire': 4804, 'small fire': 2829, 'large fire': 6030, 'heavy smoke': 3174}",1920x1080 - 1920x1080,Yes,None
+dataset24,YOLO,AMBULANCE,2036,1988,{'AMBULANCE': 3217},640x640 - 640x640,No,None
+dataset25,YOLO (No class list found),None,6500,6365,"{'class_1': 3140, 'class_0': 4838}",960x540 - 3840x2160,No,None
+dataset26,YOLO (No class list found),None,491,491,"{'class_0': 391, 'class_1': 287}",120x120 - 120x120,No,None
+dataset27,YOLO,drone-fire-detection - v1 2023-08-24 2-47pm,147,147,{'drone-fire-detection - v1 2023-08-24 2-47pm': 226},640x640 - 640x640,No,None
+dataset28,YOLO,Person,550,550,{'Person': 929},640x640 - 640x640,No,None
+dataset29,UNLABELED,None,13557,0,{},225x164 - 308x225,No,None
+dataset30,YOLO,human,5755,4923,{'human': 7424},640x640 - 640x640,No,None
+dataset31,YOLO,"Running, Walking, laying_down, not_defined, seated, stands",1980,1976,"{'Walking': 1288, 'stands': 1822, 'seated': 621, 'laying_down': 1569, 'not_defined': 976, 'Running': 78}",1920x1080 - 1920x1080,No,None
+dataset32,YOLO (No class list found),None,5010,4208,{'class_0': 13778},1920x1080 - 1920x1080,Yes,None
+dataset33,UNKNOWN,None,6828,0,{},460x259 - 1440x1107,No,None
+dataset34,UNLABELED,None,4749,0,{},256x256 - 256x256,No,None
